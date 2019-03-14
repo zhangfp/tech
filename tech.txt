@@ -1,0 +1,8 @@
+loadbalance tech
+high availability
+分布式存储
+分布式计算
+多线程
+IO多路复用
+虚拟化技术
+容器化技术
